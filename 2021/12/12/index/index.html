@@ -22,7 +22,7 @@
 
   
 
-  <title>一闪一闪亮晶晶 | Blizzarrd</title>
+  <title>视频测试 | Blizzarrd</title>
 
   
 
@@ -97,11 +97,11 @@
     <div class="header-content">
       <div class="post-text layout-block">
         <div class="layout-margin">
-          <h1 class="title-wrap">一闪一闪亮晶晶</h1>
+          <h1 class="title-wrap">视频测试</h1>
           <h2 class="title-sub-wrap">
             <strong>小兔子乖乖</strong>
             <span>发布于</span>
-            <time  class="article-date" datetime="2021-12-11T18:55:10.017Z" itemprop="datePublished">2021-12-12</time>
+            <time  class="article-date" datetime="2021-12-11T18:56:29.000Z" itemprop="datePublished">2021-12-12</time>
           </h2>
           <ul class="wrap-list dark">
   
@@ -130,8 +130,8 @@
       
       
       <section class="article-entry markdown-body layout-margin content-padding--large soft-size--large soft-style--box">
-        <div class="aplayer-box" data-url='https://qiniu.sukoshi.xyz/public/music/鹿乃 - アイロニ.mp3' data-name='アイロニ' data-artist='鹿乃' data-cover='https://qiniu.sukoshi.xyz/public/music/鹿乃 - アイロニ.jpg' data-lrc='https://qiniu.sukoshi.xyz/public/music/鹿乃 - アイロニ.lrc' data-lrcType='3' ></div>
-<h2 id=""><a href="#" class="headerlink" title=""></a></h2><p>一切从现在开始，刚刚开始</p>
+        <div class="dplayer-box" data-url='https://qiniu.sukoshi.xyz/video/%E7%BE%8E.mp4' data-pic='https://qiniu.sukoshi.xyz/video/%E7%BE%8E.mp4?vframe/jpg/offset/10' ></div>
+
 
       </section>
 
@@ -144,8 +144,8 @@
     
     <div class="card-text">
       
-        <a href="/2021/12/12/index/" itemprop="url">
-          <h2 class="card-text--title text-ellipsis">视频测试</h2>
+        <a href="/2021/12/12/video/" itemprop="url">
+          <h2 class="card-text--title text-ellipsis">video test</h2>
         </a>
       
       <div class="card-text--row">Newer</div>
@@ -153,6 +153,20 @@
   </article>
 </div>
           
+          
+            <div class="article-nav-item layout-padding">
+  <article class="card-container article-nav-card content-padding--primary soft-size--large soft-style--box">
+    
+    <div class="card-text">
+      
+        <a href="/2021/12/12/hello-world/" itemprop="url">
+          <h2 class="card-text--title text-ellipsis">一闪一闪亮晶晶</h2>
+        </a>
+      
+      <div class="card-text--row">Older</div>
+    </div>
+  </article>
+</div>
           
         </nav>
       
@@ -308,34 +322,6 @@
 
   
   <!-- aplayer -->
-
-
-  <!-- aplayer 音频 start -->
-  <link rel="stylesheet" href="https://unpkg.com/aplayer@1.10.1/dist/APlayer.min.css">
-  <script type="text/javascript" src="https://unpkg.com/aplayer@1.10.1/dist/APlayer.min.js"></script>
-  <script type="text/javascript">
-    const aplayer = document.querySelectorAll(".aplayer-box");
-    aplayer && initaplayer(aplayer);
-    function initaplayer(els) {
-      let elsArr = Array.from(els);
-      elsArr.forEach(el => {
-        let params = {
-          container: el,
-          audio: { ...el.dataset },
-          theme: "#b7daff",
-          autoplay: false,
-          loop: false,
-          mutex: true,
-        }
-        if (el.dataset.lrc) {
-          params['lrcType'] = 3
-        }
-        new APlayer(params);
-      });
-    }
-  </script>
-  <!-- aplayer 音频 end -->
-  
 
 
 <!-- dplayer -->

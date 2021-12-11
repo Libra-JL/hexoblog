@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-12-11T18:55:10.017Z</updated>
+  <updated>2021-12-11T19:07:02.903Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,39 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>video test</title>
+    <link href="http://example.com/2021/12/12/video/"/>
+    <id>http://example.com/2021/12/12/video/</id>
+    <published>2021-12-11T19:06:40.000Z</published>
+    <updated>2021-12-11T19:07:02.903Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>视频测试</title>
+    <link href="http://example.com/2021/12/12/index/"/>
+    <id>http://example.com/2021/12/12/index/</id>
+    <published>2021-12-11T18:56:29.000Z</published>
+    <updated>2021-12-11T19:07:47.610Z</updated>
+    
+    <content type="html"><![CDATA[<div class="dplayer-box" data-url='https://qiniu.sukoshi.xyz/video/%E7%BE%8E.mp4' data-pic='https://qiniu.sukoshi.xyz/video/%E7%BE%8E.mp4?vframe/jpg/offset/10' ></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;div class=&quot;dplayer-box&quot; data-url=&#39;https://qiniu.sukoshi.xyz/video/%E7%BE%8E.mp4&#39; data-pic=&#39;https://qiniu.sukoshi.xyz/video/%E7%BE%8E.mp4?vf</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>一闪一闪亮晶晶</title>
