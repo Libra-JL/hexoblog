@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-12-11T19:07:02.903Z</updated>
+  <updated>2021-12-11T19:10:58.106Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>一闪一闪亮晶晶</title>
+    <link href="http://example.com/2021/12/12/hello-world/"/>
+    <id>http://example.com/2021/12/12/hello-world/</id>
+    <published>2021-12-11T19:10:58.106Z</published>
+    <updated>2021-12-11T19:10:58.106Z</updated>
+    
+    <content type="html"><![CDATA[<div class="aplayer-box" data-url='https://qiniu.sukoshi.xyz/public/music/鹿乃 - アイロニ.mp3' data-name='アイロニ' data-artist='鹿乃' data-cover='https://qiniu.sukoshi.xyz/public/music/鹿乃 - アイロニ.jpg' data-lrc='https://qiniu.sukoshi.xyz/public/music/鹿乃 - アイロニ.lrc' data-lrcType='3' ></div><h2 id=""><a href="#" class="headerlink" title=""></a></h2><p>一切从现在开始，刚刚开始</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;div class=&quot;aplayer-box&quot; data-url=&#39;https://qiniu.sukoshi.xyz/public/music/鹿乃 - アイロニ.mp3&#39; data-name=&#39;アイロニ&#39; data-artist=&#39;鹿乃&#39; data-cover=&#39;https</summary>
+      
+    
+    
+    
+    <category term="Zhou&amp;Li" scheme="http://example.com/categories/Zhou-Li/"/>
+    
+    
+    <category term="ramarkable beauty" scheme="http://example.com/tags/ramarkable-beauty/"/>
+    
+  </entry>
   
   <entry>
     <title>video test</title>
@@ -42,26 +66,6 @@
       
       
     <summary type="html">&lt;div class=&quot;dplayer-box&quot; data-url=&#39;https://qiniu.sukoshi.xyz/video/%E7%BE%8E.mp4&#39; data-pic=&#39;https://qiniu.sukoshi.xyz/video/%E7%BE%8E.mp4?vf</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>一闪一闪亮晶晶</title>
-    <link href="http://example.com/2021/12/12/hello-world/"/>
-    <id>http://example.com/2021/12/12/hello-world/</id>
-    <published>2021-12-11T18:55:10.017Z</published>
-    <updated>2021-12-11T18:55:10.017Z</updated>
-    
-    <content type="html"><![CDATA[<div class="aplayer-box" data-url='https://qiniu.sukoshi.xyz/public/music/鹿乃 - アイロニ.mp3' data-name='アイロニ' data-artist='鹿乃' data-cover='https://qiniu.sukoshi.xyz/public/music/鹿乃 - アイロニ.jpg' data-lrc='https://qiniu.sukoshi.xyz/public/music/鹿乃 - アイロニ.lrc' data-lrcType='3' ></div><h2 id=""><a href="#" class="headerlink" title=""></a></h2><p>一切从现在开始，刚刚开始</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;div class=&quot;aplayer-box&quot; data-url=&#39;https://qiniu.sukoshi.xyz/public/music/鹿乃 - アイロニ.mp3&#39; data-name=&#39;アイロニ&#39; data-artist=&#39;鹿乃&#39; data-cover=&#39;https</summary>
       
     
     
